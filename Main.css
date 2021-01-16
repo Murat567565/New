@@ -1,0 +1,208 @@
+.Button{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 13px;
+  padding: 5px 35px;
+  border-radius: 50px;
+  background: deeppink;
+  left: 200px;
+  top : 290px;
+}
+.Type{
+  position: absolute;
+  width: 178px;
+  height: 74px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: black;
+  top: 200px;
+  left: 185px;
+}
+.Price{
+  position: absolute;
+  top: 240px;
+  left: 230px;
+  width: 98px;
+  height: 74px;
+  color: black;
+  font-size: 24px;
+}
+.Pic{
+  position: absolute;
+  top: 50px;
+  left: 210px;
+}
+
+.Button1{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 13px;
+  padding: 5px 35px;
+  border-radius: 50px;
+  background: deeppink;
+  left: 450px;
+  top : 290px;
+}
+.Type1{
+  position: absolute;
+  width: 178px;
+  height: 74px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: black;
+  top: 200px;
+  left: 430px;
+}
+.Price1{
+  position: absolute;
+  top: 240px;
+  left: 480px;
+  width: 98px;
+  height: 74px;
+  color: black;
+  font-size: 24px;
+}
+.Pic1{
+  position: absolute;
+  top: 50px;
+  left: 450px;
+}
+
+.Button2{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 13px;
+  padding: 5px 35px;
+  border-radius: 50px;
+  background: deeppink;
+  left: 700px;
+  top : 290px;
+}
+.Type2{
+  position: absolute;
+  width: 178px;
+  height: 74px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: black;
+  top: 200px;
+  left: 680px;
+}
+.Price2{
+  position: absolute;
+  top: 240px;
+  left: 730px;
+  width: 98px;
+  height: 74px;
+  color: black;
+  font-size: 24px;
+}
+.Pic2{
+  position: absolute;
+  top: 50px;
+  left: 700px;
+}
+.Type3{
+  position: absolute;
+  width: 178px;
+  height: 74px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: black;
+  top: 200px;
+  left: 930px;
+}
+.Price3{
+  position: absolute;
+  top: 240px;
+  left: 980px;
+  width: 98px;
+  height: 74px;
+  color: black;
+  font-size: 24px;
+}
+.Pic3{
+  position: absolute;
+  top: 50px;
+  left: 950px;
+}
+.text,
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .text {
+  display: block;
+}
+.btn {
+  display: inline-block;
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 13px;
+  padding: 5px 35px;
+  border-radius: 50px;
+  background: deeppink;
+  left: 950px;
+  top : 290px;
+}
+.text{
+  position: absolute;
+  top: 400px;
+  left: 500px;
+}
+.text1{
+  position: absolute;
+  top: 400px;
+  left: 500px;
+}
+.text2{
+  position: absolute;
+  top: 400px;
+  left: 500px;
+}
+.text3{
+  position: absolute;
+  top: 400px;
+  left: 500px;
+}
+.text1,
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .text1 {
+  display: block;
+}
+.text2,
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .text2 {
+  display: block;
+}
+.text3,
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .text3 {
+  display: block;
+}
+.contact-title{
+  position: absolute;
+  font-size: 25px;
+  top: -15px;
+}
